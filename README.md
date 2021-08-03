@@ -1,24 +1,11 @@
    Olá, eu sou o Davi!😊❤️
 
-  *
-   *
-*
-
-*
-*
-*
-*
-*
-*
-*
-*
 
 
 
 
 
-
-  # 🚀Sobre mim 
+  * 🚀Sobre mim 
       📌Idade: 23.
       🏫Escolaridade: 2º Grau completo.
       👨‍🎓Formação: Desenvolvimento de Sistemas (2/3) - SENAI .
