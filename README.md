@@ -8,7 +8,7 @@
   
       📌Idade: 23
       🏫Escolaridade: 2º Grau completo
-      🎓Formação: Desenvolvimento de Sistemas (2/3) - SENAI 
+      🎓Formação: Desenvolvimento de Sistemas (1/3) - SENAI 
       🌎Salvador-BA
 
  
